@@ -3,7 +3,7 @@ This is a Python class that uses a Huffman Tree algorithm to compress and decomp
 
 # What I used
 - OOP
-- binary tree
+- Binary Tree
 - Huffman Encoding Algorithm
 - recursion
 - Priority Queue
